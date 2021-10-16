@@ -2,13 +2,11 @@ Recently Used List Kata
 =======================
 A popular feature of graphical editors of all kinds (text, graphics, spreadsheets, ..) is the Recent file list. It is often found as a sub-menu of the file menu in the GUI of the program:
 
-```
-File->
-  Recent files->
-    D:\docs\text1.txt
-    D:\docs\diary.txt
-    D:\log.txt
-```   
+    File->
+      Recent files->
+        D:\docs\text1.txt
+        D:\docs\diary.txt
+        D:\log.txt
 
 Use TDD to grow this kind of behaviour. Some examples of the behaviour is
 - When the program is run for the first time, the list is empty
