@@ -1,6 +1,8 @@
 Recently Used List Kata
 =======================
-A popular feature of graphical editors of all kinds (text, graphics, spreadsheets, ..) is the Recent file list. It is often found as a sub-menu of the file menu in the GUI of the program:
+A popular feature of graphical editors of all kinds (text, graphics, spreadsheets, ..)
+is the Recent file list. It is often found as a sub-menu of the file menu in the GUI
+of the program:
 
     File->
       Recent files->
