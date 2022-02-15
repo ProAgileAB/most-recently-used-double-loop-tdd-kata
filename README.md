@@ -1,5 +1,6 @@
 Recently Used List Kata
 =======================
+
 A popular feature of graphical editors of all kinds (text, graphics, spreadsheets, ..)
 is the Recent file list. It is often found as a sub-menu of the file menu in the GUI
 of the program:
@@ -33,8 +34,7 @@ Stepping stones
 6. New requirement: users complain that the full path of files are hard to read. They only want to see the file name without the path. Of course, the software as a whole still need access to full path to be able to function, however. Would you add or modify old integration tests? Be careful to refactor systematically on this one - stay in green as much as possible - and remember not only production code needs refactoring, but also tests!
 
 
-# Links
-
-Here is a description of the problem this code is designed to solve: [Tennis Kata](https://sammancoaching.org/kata_descriptions/tennis.html).
+Links
+-----
 
 This kata is sponsored by [ProAgile](https://proagile.se).
